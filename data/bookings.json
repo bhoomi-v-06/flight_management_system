@@ -1,0 +1,24 @@
+[
+  {
+    "booking_id": "SEED001",
+    "flight_number": "AI101",
+    "passenger": {
+      "name": "Asha Rao",
+      "email": "asha.rao@example.com",
+      "phone": "+91-9876543210"
+    },
+    "seats": 2,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "SEED002",
+    "flight_number": "AI202",
+    "passenger": {
+      "name": "Rohan Patnaik",
+      "email": "rohan.p@example.com",
+      "phone": "+91-9001234567"
+    },
+    "seats": 3,
+    "status": "CONFIRMED"
+  }
+]
