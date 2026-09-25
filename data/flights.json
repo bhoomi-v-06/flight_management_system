@@ -1,0 +1,38 @@
+[
+  {
+    "number": "AI101",
+    "origin": "Bhubaneswar",
+    "destination": "Delhi",
+    "departure": "2025-05-15 08:00",
+    "arrival": "2025-05-15 10:00",
+    "capacity": 150,
+    "booked_seats": 30
+  },
+  {
+    "number": "AI202",
+    "origin": "Delhi",
+    "destination": "Mumbai",
+    "departure": "2025-05-16 12:00",
+    "arrival": "2025-05-16 14:15",
+    "capacity": 180,
+    "booked_seats": 75
+  },
+  {
+    "number": "AI303",
+    "origin": "Bhubaneswar",
+    "destination": "Bangalore",
+    "departure": "2025-05-17 09:30",
+    "arrival": "2025-05-17 11:45",
+    "capacity": 160,
+    "booked_seats": 50
+  },
+  {
+    "number": "IN101",
+    "origin": "Mumbai",
+    "destination": "Bangalore",
+    "departure": "2026-01-20 15:30",
+    "arrival": "2026-01-20 19:20",
+    "capacity": 130,
+    "booked_seats": 0
+  }
+]
